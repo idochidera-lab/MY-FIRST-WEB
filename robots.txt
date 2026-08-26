@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idochidera-lab.github.io/MY-FIRST-WEB/sitemap.xml
